@@ -5,7 +5,7 @@
     android:id="@+id/list_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".fragments.ListFragment">
+    tools:context=".fragments.list.ListFragment">
 
     <!-- TODO: Update blank fragment layout -->
 

@@ -1,4 +1,4 @@
-package cmd.ushiramaru.todid.fragments
+package cmd.ushiramaru.todid.fragments.list
 
 import android.os.Bundle
 import android.view.*
